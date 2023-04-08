@@ -15,4 +15,7 @@ Standardization //
 Hadamard Product //
 Min-Max Normalization //
 Confusion vector //
-Python 기초 알고리즘
+Python 기초 알고리즘 //
+Matplotlib 실습 //
+Matplotlib를 활용한 K-Nearest Neighbor, Violinplot, Iris data활용, K-means clustering //
+Sobel filtering
